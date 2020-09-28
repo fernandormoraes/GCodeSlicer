@@ -1,2 +1,2 @@
-# Trabalhos-Incompletos
-Repositório com programas incompletos para futuras atualizações.
+# GCodeSlicer
+Script em python para separar backup de código G.
